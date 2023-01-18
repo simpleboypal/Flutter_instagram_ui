@@ -8,9 +8,15 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This is the instagram clone UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here we have only one page with different navigation
+
+-Navigation button to nav
+
+-Day buttons
+-
+profile details 
+
+Sample
+![df1b757ee537ba74daafd37dc7c40ef5](https://user-images.githubusercontent.com/28450537/213135527-32bc9dc5-045d-4f9e-bf4a-c14397e0777f.png)
