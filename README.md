@@ -1,6 +1,7 @@
 # flutter_nav
 
-A new Flutter project.
+Instagram clone Project
+
 
 ## Getting Started
 
